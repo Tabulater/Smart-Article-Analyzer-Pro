@@ -1,6 +1,5 @@
 # Smart Article Analyzer Pro
 
-![Smart Article Analyzer Pro](https://i.imgur.com/your-screenshot.png)
 
 Welcome to **Smart Article Analyzer Pro** - a modern, AI-powered tool that transforms lengthy articles into clear, concise, and insightful summaries. Built with React and powered by advanced natural language processing, this application helps you quickly understand the key points of any article in seconds.
 
